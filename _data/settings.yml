@@ -79,7 +79,7 @@ blurb-btn-name: more details
 # My Team Section
 team:
   - title : "Zhenjiang MAO"
-    image : "assets/images/team/mzj.jpg"
+    image : "assets/images/team/mzj.png"
     designation : "Chairman & Fundraiser"
 
   - title : "Minghui NIU"

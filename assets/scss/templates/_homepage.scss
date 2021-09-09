@@ -71,6 +71,7 @@
 .active-bg-primary {
   transition: .3s ease;
   background: $primary-color;
+  border-radius: 2rem;
 
   * {
     color: $white;
