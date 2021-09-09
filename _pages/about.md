@@ -1,18 +1,10 @@
 ---
 layout: about
-title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+title: About
+author: SOSConf Organizing Commitee
+image: assets/images/about/team.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+SOSCONF is the first global open source technology summit organized by students for non-profit community. Based on the concept of open source, the summit encourages students to enjoy open source, understand open source, participate in open source, contribute to open source, and get practice and fun from open source. The summit is held in different cities and countries every year to establish an active, diverse and pure technical community focusing on learning and the future for students, so that students from different countries can actively communicate, stand on the international stage, and show their ideas in the laboratory. The conference was held at the University of Southern California and Chengdu University of Electronic Science and Technology. In this conference, all the organizers, volunteers and speakers are made up of current students. Audience status is not limited. As part of the X program, Chinese will be the main language used in this event.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Southern University of Science and Technology (SUSTech), located in Shenzhen, Guangdong Province, is a full-time public institution of higher learning led and managed by Guangdong Province. It is an innovative University founded by Shenzhen. It is also the first time to hold an Student Open Source Conference in Southern University of Science and Technology.

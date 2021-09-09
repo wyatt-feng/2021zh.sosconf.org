@@ -1,9 +1,9 @@
 .navigation{
-  padding: 40px 130px;
+  padding: 20px 80px;
   transition: .3s ease;
   &.nav-bg {
     background-color: $primary-color;
-    padding: 15px 100px;
+    padding: 5px 50px;
     @include desktop {
       padding: 15px 20px;
     }
@@ -19,7 +19,7 @@
     .nav-link{
       font-family: $tertiary-font;
       text-transform: uppercase;
-      padding: 15px;
+      padding: 5px;
     }
     &.active{
       font-weight: bold;
@@ -29,4 +29,17 @@
 
 .navbar-dark .navbar-nav .nav-link{
   color: $white;
+}
+
+.navbar-brand {
+  display: inline-block;
+  /* padding-top: .3125rem; */
+  padding-bottom: .3125rem;
+  /* margin-right: 1rem; */
+  font-size: 1.25rem;
+  line-height: inherit;
+}
+
+.nav-link, .navbar {
+  padding: 0rem 0rem;
 }
