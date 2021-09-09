@@ -4,9 +4,8 @@
 
 ## Link
 
-| Homepage  | About  | Blog  | sponsors  | Contact  |
-|---|---|---|---|---|
-| ![Homepage](https://2021zh.sosconf.org) | ![About](https://2021zh.sosconf.org/about) | ![Blog](https://2021zh.sosconf.org/blog) | ![sponsors](https://2021zh.sosconf.org/sponsors)
+| [Homepage](https://2021zh.sosconf.org)  | [About](https://2021zh.sosconf.org/about)  | [Blog](https://2021zh.sosconf.org/blog)  | [sponsors](https://2021zh.sosconf.org/sponsors)  |
+|---|---|---|---|
 
 ## Copyright
 
