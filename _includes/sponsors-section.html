@@ -1,0 +1,27 @@
+{% if site.data.settings.sponsors-home-items %}
+<!-- sponsors -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Sponsors</h2>
+      </div>
+    </div>
+    <div class="row shuffle-wrapper">
+      {% for item in site.data.settings.sponsors-home-items %}
+      <div class="col-lg-4 col-6 mb-4 shuffle-item">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="{{ site.baseurl }}/{{ item.image }}" alt="sponsors-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="{{ item.url }}">view website</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /sponsors -->
+{% endif %}
