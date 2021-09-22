@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Website for Student Open-Source Conference 2021</h1>
+	<h1>Website for Students Open-Source Conference 2021</h1>
 </div>
 
 ## Link

@@ -37,7 +37,7 @@ menu:
 # Hero Section
 
 hero:
-  hero-title: Student Open Source Conference <br>@ SUSTech
+  hero-title: Students Open Source Conference <br>@ SUSTech
 
 social:
 - {icon: "ti-facebook", link: "https://fb.com/sosconf"}
@@ -53,7 +53,7 @@ social:
 
 # About Section
 blurb:
-  SOSCONF is the first global open-source technology summit organized by students for non-profit community. Based on the concept of open source, the summit encourages students to enjoy open source, understand open source, participate in open source, contribute to open source, and get practice and fun from open source. 
+  SOSConf is the first global open-source technology summit organized by students for non-profit community. Based on the concept of open source, the summit encourages students to enjoy open source, understand open source, participate in open source, contribute to open source, and get practice and fun from open source. 
 
 blurb-btn-link: '/about'
 blurb-btn-name: more details
