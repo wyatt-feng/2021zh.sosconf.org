@@ -5,7 +5,7 @@ title: SOSConf
 logo: "assets/images/sosconf_logo_white.png"
 author: 
 description: Students Open Source Conference
-email: 2021zh AT sosconf.org
+email: 2021.zh@sosconf.org
 phone: 
 address: 1088 Xueyuan Avenue, Shenzhen 518055, P.R. China
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com) & Modified by [Wyatt Feng](https://github.com/wyatt-feng)
@@ -145,7 +145,7 @@ services:
 - {
     name: Email Contact,
     icon: ti-email,
-    description: 2021zh@sosconf.org,
+    description: 2021.zh@sosconf.org,
     active: true
   }
 - {
